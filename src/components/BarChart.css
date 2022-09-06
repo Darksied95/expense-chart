@@ -1,0 +1,10 @@
+.bar-container:hover .bar-modal {
+  display: block;
+}
+.bar-modal {
+  display: none;
+}
+
+.bar:hover {
+  background-color: hsl(10, 48%, 69%) !important;
+}
