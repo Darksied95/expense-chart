@@ -3,7 +3,6 @@ main {
   min-width: 350px;
   max-width: 700px;
   margin: auto;
-  height: 60vh;
 }
 .first-section {
   background-color: var(--clr-soft-red);

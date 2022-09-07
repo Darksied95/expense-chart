@@ -29,8 +29,9 @@ body {
   font-size: 18px;
   font-family: "DM Sans", sans-serif;
   background-color: var(--clr-cream);
-  display: grid;
-  place-content: center;
+  padding-top: 10vh;
+  /* display: grid;
+  place-content: center; */
 }
 
 img {
